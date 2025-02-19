@@ -16,7 +16,7 @@ In this repository, you will find two AI-powered applications.s
     └── LangGraph_EssayBot      # Essay editing bot using LangGraph
    ```
 
-4. **How to Use**  
+## How to Use  
     To learn more about each project and how to use them, navigate to the respective folder and check the README file inside.
 
 
