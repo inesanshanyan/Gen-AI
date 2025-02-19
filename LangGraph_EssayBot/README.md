@@ -1,4 +1,4 @@
-# Essay Editing Bot with LangGraph
+## Essay Editing Bot with LangGraph
 
 This bot is built using **LangGraph** and **Gradio** to provide an interactive interface for editing essays. Users can edit both the latest version of the essay and the original one, with the ability to track changes and apply edits dynamically.
 
